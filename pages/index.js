@@ -157,7 +157,6 @@ const Descricao = styled.div`
   @media (max-width: 800px) {
     flex-direction: column;
   }
-}
 `;
 
 const Form = styled.form`
